@@ -1,3 +1,4 @@
 ptable
 requests
 Google-Search-API
+pypiwin32
