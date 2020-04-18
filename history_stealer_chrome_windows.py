@@ -1,3 +1,8 @@
+###################################################################
+# Archive !!                                                      #
+# Chrome changed the encryption so this script no longer works !! #
+###################################################################
+
 import sqlite3, os, sys, sqlite3,win32crypt, operator, getpass
 from collections import OrderedDict
 from prettytable import PrettyTable
