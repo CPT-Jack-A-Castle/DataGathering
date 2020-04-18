@@ -1,3 +1,8 @@
+###################################################################
+# Archive !!                                                      #
+# Chrome changed the encryption so this script no longer works !! #
+###################################################################
+
 #/usr/bin/env python3
 import sqlite3, os, sys, win32crypt, getpass
 from prettytable import PrettyTable
